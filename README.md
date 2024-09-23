@@ -22,11 +22,14 @@ Languages:
 ## Implementation/Output:
 
 ### Run the file:
-![enter article](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/enter%20article.png)
+![run file](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/enter%20article.png)
 
-### Enter the news article from training split: Fake or Legit?:
-![result](https://github.com/yourusername/Factcheckr/assets/123456/result_sample)
+### Enter the news article from testing split:
+![enter article](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/testing%20data.png)
 
+### Fake or Legit?:
+![result 0](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/result%200.png)
+![result 1](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/result%201.png)
 ## Doubts?
 
 ### Feel free to drop a text  
