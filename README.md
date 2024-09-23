@@ -3,10 +3,7 @@
 ***Factcheckr*** is a powerful web app that helps users verify the authenticity of news articles. With a clean interface, it quickly tells you whether a news article is **Fake** or **Legit** by analyzing the text content.
 
 Languages:  
-> HTML  
-> CSS  
-> JavaScript  
-> Python (Flask/Django)  
+> Python
 
 ## How to use:
 
