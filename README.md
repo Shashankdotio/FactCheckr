@@ -21,10 +21,10 @@ Languages:
 
 ## Implementation/Output:
 
-### Enter the News Article from training split:
-![enter article](https://github.com/yourusername/Factcheckr/assets/123456/enter_article_sample)
+### Run the file:
+![enter article](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/enter%20article.png)
 
-### Fake or Legit?:
+### Enter the news article from training split: Fake or Legit?:
 ![result](https://github.com/yourusername/Factcheckr/assets/123456/result_sample)
 
 ## Doubts?
