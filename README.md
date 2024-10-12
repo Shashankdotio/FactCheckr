@@ -14,7 +14,7 @@ Languages:
    pip install -r requirements.txt
 4. Run the app using:
    ```bash
-   streamlit run factcheckr.py
+   streamlit run app.py
 
 > [!TIP]  
 > Make sure you have Python installed and a virtual environment activated to avoid dependency issues.
