@@ -11,7 +11,6 @@
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
   <img alt="Streamlit" src="https://img.shields.io/badge/Powered%20by-Streamlit-brightgreen.svg">
-  <img alt="Transformers" src="https://img.shields.io/badge/Model%20based%20on-Transformers-orange.svg">
 </p>
 
 ***Factcheckr*** is a powerful web app that helps users verify the authenticity of news articles. With a clean interface, it quickly tells you whether a news article is **Fake** or **Legit** by analyzing the text content.
