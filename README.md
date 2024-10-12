@@ -56,3 +56,5 @@ Languages:
 <a href="https://instagram.com/shashaaannk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashaaannk" height="30" width="40" />
 </a>
 
+##
+#### This project is licensed under the MIT License - see the [LICENSE](https://github.com/Shashankdotio/FactCheckr/blob/main/LICENSE) file for details.  
