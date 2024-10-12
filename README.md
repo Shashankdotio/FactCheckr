@@ -1,4 +1,18 @@
-# Factcheckr - Fake News Detection Web App
+<p align="center">
+  <img src="logo.png" alt="Logo" >
+</p>
+
+<h1 align="center">📰 VeriNews - Hindi Fake News Detection</h1>
+
+<p align="center">
+  Detect whether a Hindi news headline is <strong>Fake</strong> or <strong>Real</strong>.
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Powered%20by-Streamlit-brightgreen.svg">
+  <img alt="Transformers" src="https://img.shields.io/badge/Model%20based%20on-Transformers-orange.svg">
+</p>
 
 ***Factcheckr*** is a powerful web app that helps users verify the authenticity of news articles. With a clean interface, it quickly tells you whether a news article is **Fake** or **Legit** by analyzing the text content.
 
