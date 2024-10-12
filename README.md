@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Logo" >
 </p>
 
-<h1 align="center">📰 VeriNews - Hindi Fake News Detection</h1>
+<h1 align="center">📰 FactCheckr - Fake News Detection</h1>
 
 <p align="center">
   Detect whether a Hindi news headline is <strong>Fake</strong> or <strong>Real</strong>.
