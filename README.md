@@ -22,17 +22,24 @@ Languages:
 ## Implementation/Output:
 
 ### Run the file:
-![run file](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/enter%20article.png)
+![run file](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/home.png)
+
+### Testing data:
+![test data](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/testing%20data.png)
 
 ### Enter the news article from testing split:
-![enter article](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/testing%20data.png)
+![enter news article](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/enter%20news.png)
 
-### Fake or Legit?:
-![result 0](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/result%200.png)
-![result 1](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/result%201.png)
+### Predictions:
+![results](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/predictions.png)
+
+### Visualization:
+![visualisation](https://github.com/Shashankdotio/FactCheckr/blob/main/snapshots/visualisation.png)
 ## Doubts?
 
 ### Feel free to drop a text  
-📧email: shashankvsdb@gmail.com  
+<p align="left">
+<a href="https://www.linkedin.com/in/shashankkamble97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankkamble97" height="30" width="40" /></a>
+<a href="https://instagram.com/shashaaannk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashaaannk" height="30" width="40" />
+</a>
 
-🔗linkedln: [shashankkamble97](https://www.linkedin.com/in/shashankkamble97/)
